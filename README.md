@@ -33,9 +33,6 @@ cmake -G Ninja -B build
 ninja -C build
 ```
 
-*(Update this if your actual CMake setup differs — fill in any
-dependencies Box2D/Dear ImGui need that aren't vendored in the repo.)*
-
 ## Usage
 
 ```bash
